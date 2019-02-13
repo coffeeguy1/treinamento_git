@@ -1,1 +1,27 @@
+"""
+	
+	Comando de abertura do terminal control + alt + t
+	ls ---------------- lista os arquivos
+	ls -ltr --------------- lista de outra maneira
+	cd ---------------- entra no diretorio
+	
+	mostrando variações do ls(man ls)
+	rm apaga
+	clear
 
+
+	/////////////////////// GIT HUB //////////////////////////
+	
+	git status ---- verifica o status do documento
+	git add * ---- para adicionar todos os arquivos dentro do commit
+	git commit -m "alguma coisa" ------- O m é de message -------
+	git push origin master ----- da um push para o github
+
+	git branch ---- para mostrar a master ou as ramificações
+	git pull ---- para atualizar com o que ja esta no github
+
+	cp -- copiar
+	mv -- mover
+	pwd -- verifica o caminho
+	cat -- mostra o conteudo do arquivo
+"""
