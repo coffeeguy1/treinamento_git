@@ -1,0 +1,12 @@
+------------------------------
+	Bibliotecas Python3
+		Como importar 
+			from math import sqrt ou import math, ceil.....
+
+	- Math
+		ceil - faz um arredondamento do numero para cima 7.8 para 8 por exemplo.
+		floor - faz um arredondamento para baixo
+		trumc - vai eliminar da virgula pra frente
+		pow - potência
+		sqrt - raiz quadrada
+		factorial - fatorial
