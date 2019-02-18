@@ -1,0 +1,24 @@
+------------------------------------------------
+
+Propriedades de uma string
+
+	len(frase) -- Comprimento da frase ou palavra.
+	frase.count('o') -- Pede a quantidade de 'o' que há na frase.
+	frase.count('o',0,13) -- Esta dando até aonde a frase deve ser verificada.
+	frase.find('deo') -- No exemplo ele vai retornar o indice que inicia o 'deo'. Se o find retornar -1 é pq não existe. (Exemplo do guanabara 'Curso em Video python').
+	'Curso' in frase -- Existe 'Curso' em frase? Este método retorna true or false
+	frase.replace('Python', 'Android') -- Vai procurar por python e vai substituir android.
+	frase.upper() -- Coloca em caixa alta.
+	frase.lower() -- Coloca em minusculo.
+	frase.capitalize() -- Deixará somente a primeira letra em maiusculo o resto ficará em minusculo.
+	frase.title() -- Vai contar a quantidade de palavras e colocará todas elas com a primeira letra  maiuscula.
+	frase.strip() -- Remove todos os espaços inuteis.
+		strip() - tem uma variação r. Exemplo: frase.rstrip() -- o r significa right = direita, remove somente os espaços inuteis do lado direito.
+							frase.lstrip() -- mesma coisa só que left = esquerda.
+	frase.split() -- Divide a frase em uma lista.
+	'-'.join(frase) -- Unirá a frase colocando um - entre as palavras. Pode se colocar um espaço em branco dentro das aspas.
+ 
+	
+	
+
+------------------------------------------------
